@@ -28,7 +28,6 @@
 <h3 align="left">Skills:</h3>
 <p align="left">  
 	<a href="https://www.cprogramming.com/" target="_blank" rel="C"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c++/c++-original.svg" alt="c" width="40" height="40"/> </a> 
-	<a href="https://www.cprogramming.com/" target="_blank" rel="C++"> <img src="https://share.google/2bdxa9oUvj3fmdGwZ" alt="c++" width="40" height="40"/> </a> 
 	<a href="https://www.linux.org/" target="_blank" rel="Linux"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wkannouf&show_icons=true&locale=en&layout=compact&theme=radical" alt="wkannouf" /></p>
